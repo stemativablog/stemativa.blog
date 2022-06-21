@@ -1,4 +1,4 @@
-## Blog do Tio Dev
+## STEMΔtiva blog
 
 Construído a partir do "tailwind-nextjs-starter-blog" do Timothy Lin.
 
