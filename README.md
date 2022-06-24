@@ -7,6 +7,7 @@ Confira as informações abaixo para para começar.
 ## Features
 
 - Fácil personalização de estilo com [Tailwind 3.0](https://tailwindcss.com/blog/tailwindcss-v3)
+- Fácil personalização de estilo com [daisyUI](https://daisyui.com/), adicionado exclusivamente a esse projeto
 - Visualização otimizada para dispositivos móveis
 - Tema claro e escuro
 - Suporta análises plausíveis e simples e google analytics
