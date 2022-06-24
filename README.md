@@ -1,6 +1,6 @@
 ## STEMΔtiva • Blog
 
-Este é projeto de blog [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/) . Provavelmente o template Next.js de markdown blogging mais rico em recursos que existe. Já vem configurado com as mais recentes tecnologias para facilitar a escrita técnica. Facilmente configurável e personalizável. Perfeito como um substituto para os blogs com aplicações conectadas com banco de dados de servidor existentes.
+Este é um projeto de blog [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/) . Provavelmente o template Next.js de markdown blogging mais rico em recursos que existe. Já vem configurado com as mais recentes tecnologias para facilitar a escrita técnica. Facilmente configurável e personalizável. Perfeito como um substituto para os blogs com aplicações conectadas com banco de dados de servidor existentes.
 
 Confira as informações abaixo para para começar.
 
