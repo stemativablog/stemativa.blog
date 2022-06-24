@@ -19,8 +19,8 @@ Confira as informações abaixo para para começar.
 
 ## Guia de instalação
 
-Todo guia de instalação você encotra em [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog#quick-start-guide), inicialmente escrito por Timothy Lin. [Timothy Lin](https://www.timrlx.com)
+Todo guia de instalação você encotra em [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog#quick-start-guide), inicialmente escrito por [Timothy Lin](https://www.timrlx.com).
 
 ## Licença
 
-[MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/master/LICENSE) - [Timothy Lin](https://www.timrlx.com)
+[MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/master/LICENSE) - [Timothy Lin](https://www.timrlx.com).
